@@ -16,4 +16,4 @@
 </div>
 
 ## Tecnologias Usadas
-HTML5, Css3, JavaScript, Intellij IDEA, Git, GitHub.
+HTML5, Css3, JavaScript, VS Code, Git, GitHub.
